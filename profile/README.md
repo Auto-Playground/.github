@@ -1,12 +1,3 @@
-## Hi there 👋
-This is the officia Github page of Auto Playground
-<!--
+# Auto Playground
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Auto Playground ,is a group of developers who come together to create open-source projects and solutions. We think that the best way for developers to learn is by teaching and working on projects. That's what we're all about: helping developers improve their skills by teaching each other and collaborating on open-source projects using what we know 🚀👨‍💻📚.
